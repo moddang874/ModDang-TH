@@ -4,5 +4,5 @@
 git clone https://github.com/moddang874/ModDang-SMS
 
 cd Spamer
-python Spacer.py
+python Spamer-SMS.py
 
