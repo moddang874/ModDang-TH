@@ -18,7 +18,7 @@ def banner():
     os.system("clear")
     logo = """                 
           YT: FiveZone CH          
-              ผู้สนับสนุน: SCK
+              ผู้สนับสนุน: MoDDang
     """
     clrs = print(c_color+logo+W)
 
